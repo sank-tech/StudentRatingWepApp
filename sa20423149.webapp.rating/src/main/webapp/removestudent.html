@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Remove Student Information</title>
+<style type="text/css">
+
+
+input[type=text] {
+	width: 50%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+button{
+	background-color: grey;
+	color: white;
+	padding: 14px 20px;
+	border: none;
+	cursor: pointer;
+	width: 50%;
+}
+button:hover{
+	opacity: 0.9;
+}
+.LoginDiv {
+	padding: 16px;
+}
+</style>
+<script type = "text/javascript">
+function myFun(){
+	var flag = true;
+	var name = document.remove.studentName.value;
+
+	if(name == ""){
+		alert("Invalid student name!");
+		flag = false;
+	}
+	else{
+		flag = true;
+	}
+	return flag;
+}
+</script>
+</head>
+<body style="background-color: buttonface;">
+
+	<h2 style="text-align: center;">Remove Student Data</h2>
+	<br>
+<form name = "remove" action = "RemoveStudent" method="post">
+<div class = "LoginDiv">
+<label><b>Student Name</b></label>
+<input type = "text"  name = "studentName" placeholder = "Enter Student Name" />
+
+<button type = "submit" onclick = "myFun()">Remove Student</button>
+</div>
+</form>
+</body>
+</html>

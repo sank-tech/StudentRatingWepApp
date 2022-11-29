@@ -1,0 +1,46 @@
+
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©±é¨HRMINORZ
+CODE_SMELL
+
+java:S1192"cDefine a constant instead of duplicating this literal "(STUDENTNAME VARCHAR(45) NOT NULL," 5 times.(¾¶¬ùÿÿÿÿ8ó„áñË0H§RCRITICALZ
+CODE_SMELL
+Ÿ
+java:S1192"dDefine a constant instead of duplicating this literal "PRIMARY KEY (STUDENTNAME, SUBJECT))" 5 times.(‹Õ•µùÿÿÿÿ8ó„áñË0H­RCRITICALZ
+CODE_SMELL
+
+java:S1192%"ZDefine a constant instead of duplicating this literal "MARKS INT NULL DEFAULT 0," 3 times.(èôšá8ó„áñË0H³RCRITICALZ
+CODE_SMELL
+™
+java:S1192"^Define a constant instead of duplicating this literal "SUBJECT VARCHAR(45) NOT NULL," 6 times.(ó„ı”øÿÿÿÿ8ó„áñË0H·RCRITICALZ
+CODE_SMELL
+¤
+java:S1192"iDefine a constant instead of duplicating this literal "ASSIGNMENTCATEGORY VARCHAR(45) NOT NULL," 5 times.(ó„ı”øÿÿÿÿ8ó„áñË0H¾RCRITICALZ
+CODE_SMELL
+“
+java:S1192"]Define a constant instead of duplicating this literal "SEQUENCE INT NULL DEFAULT 1," 4 times.(ßÑÃ8ó„áñË0HÄRCRITICALZ
+CODE_SMELL
+z
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ8ó„áñË0HÉRBLOCKERZBUG
+v
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(šœãß8ó„áñË0HÊRBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ğÉ®™8ó„áñË0HËRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÑŞƒÜıÿÿÿÿ8ó„áñË0HÌRMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(™¥Šıÿÿÿÿ8ó„áñË0HÍRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(´Ü¡¨ùÿÿÿÿ8ó„áñË0HÎRMAJORZ
+CODE_SMELL
+m	java:S125'"<This block of commented-out lines of code should be removed.( şÊ08ó„áñË0HÏRMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(Ãğé…ÿÿÿÿÿ8ó„áñË0HĞRMAJORZ
+CODE_SMELL
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(õÔÀúÿÿÿÿ8ó„áñË0HÑRMAJORZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(õÔÀúÿÿÿÿ8ó„áñË0HÒRMAJORZ
+CODE_SMELL
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(Š¸¿×8ó„áñË0HÓRMAJORZ
+CODE_SMELL
+i
+java:S1135C"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ó„áñË0HÔRINFOZ
+CODE_SMELL

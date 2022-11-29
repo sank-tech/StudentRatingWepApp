@@ -1,0 +1,47 @@
+
+h	java:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©±é¨HRMINORZ
+CODE_SMELL
+
+java:S1192+"JDefine a constant instead of duplicating this literal "Error! - " 5 times.(¿òã8»ÌßñË0HƒRCRITICALZ
+CODE_SMELL
+ƒ
+java:S2095ì"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8»ÌßñË0H‰RBLOCKERZBUG
+‚
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¡ÍÄûÿÿÿÿ8»ÌßñË0HŠRBLOCKERZBUG
+ƒ
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8»ÌßñË0H‹RBLOCKERZBUG
+ƒ
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¡ÍÄûÿÿÿÿ8»ÌßñË0HŒRBLOCKERZBUG
+ƒ
+java:S2095»"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8»ÌßñË0HRBLOCKERZBUG
+ƒ
+java:S2095¶"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¡ÍÄûÿÿÿÿ8»ÌßñË0HRBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ü½”Àüÿÿÿÿ8»ÌßñË0HRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8»ÌßñË0HRMAJORZ
+CODE_SMELL
+
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(…ğÆšşÿÿÿÿ8»ÌßñË0H‘RCRITICALZ
+CODE_SMELL
+k	java:S106X"9Replace this use of System.out or System.err by a logger.(ûğÛš8»ÌßñË0H¢RMAJORZ
+CODE_SMELL
+p	java:S106z"9Replace this use of System.out or System.err by a logger.(‚ªÌüıÿÿÿÿ8»ÌßñË0H£RMAJORZ
+CODE_SMELL
+l	java:S106™"9Replace this use of System.out or System.err by a logger.(şò¾Ã8»ÌßñË0H¤RMAJORZ
+CODE_SMELL
+q	java:S106¹"9Replace this use of System.out or System.err by a logger.(¢ù”ªÿÿÿÿÿ8»ÌßñË0H¥RMAJORZ
+CODE_SMELL
+q	java:S106½"9Replace this use of System.out or System.err by a logger.(åÀ«çÿÿÿÿÿ8»ÌßñË0H¦RMAJORZ
+CODE_SMELL
+l	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¹Ú©‹8»ÌßñË0H§RMAJORZ
+CODE_SMELL
+q	java:S106Ï"9Replace this use of System.out or System.err by a logger.(Úõ·™ùÿÿÿÿ8»ÌßñË0H¨RMAJORZ
+CODE_SMELL
+‰
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(‰£öÿ8»ÌßñË0H©RCRITICALZ
+CODE_SMELL
+X
+java:S1659İ"Declare "n" on a separate line.(³ñ„³úÿÿÿÿ8»ÌßñË0H·RMINORZ
+CODE_SMELL

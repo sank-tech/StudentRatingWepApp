@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Subject Wise Data</title>
+<style type="text/css">
+
+.LoginDiv{
+padding: 16px;
+}
+button{
+	background-color: gray;
+	color: white;
+	padding: 14px 20px;
+	border: none;
+	cursor: pointer;
+	width: 50%;
+}
+button:hover{
+	opacity: 0.9;
+}
+form{
+	border: 3px solid #f1f1f1;
+}
+input[type=text] {
+	width: 75%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+</style>
+<script type = "text/javascript">
+function myFun(){
+	var flag = true;
+	var name = document.subjectwise.subjectName.value;
+
+	if(name == ""){
+		alert("Invalid subject name!");
+		flag = false;
+	}
+	else{
+		flag = true;
+	}
+	return flag;
+}
+</script>
+</head>
+<body style="background-color: buttonface;">
+	<h2 style="text-align: center; color:grey">View Subject Data</h2>
+	<br>
+<form name = "subjectwise" action = "SubjectWiseData" method="post">
+<div class = "LoginDiv">
+<label>Subject Name</label> 
+<input type = "text"  name = "subjectName" placeholder = "Enter Subject Name" />
+
+<button type = "submit" onclick = "return myFun()">View Subject Data</button>
+</div>
+</form>
+</body>
+</html>

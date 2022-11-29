@@ -1,0 +1,61 @@
+
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(©±é¨HRMINORZ
+CODE_SMELL
+z
+java:S1192!"EDefine a constant instead of duplicating this literal "}\r
+" 4 times.(ÑŠÎ~8‡úßñË0HºRCRITICALZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿8‡úßñË0H¿RMAJORZ
+CODE_SMELL
+”
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(üŠå‡øÿÿÿÿ8‡úßñË0HÁRMINORZVULNERABILITY
+‹
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿ8‡úßñË0HÂRMINORZVULNERABILITY
+u
+java:S2479#":Remove the non-escaped \u0009 character from this literal.(ÀÅ‡îøÿÿÿÿ8‡úßñË0HÃRCRITICALZ
+CODE_SMELL
+u
+java:S2479&":Remove the non-escaped \u0009 character from this literal.(¼¤ÙÑùÿÿÿÿ8‡úßñË0HÄRCRITICALZ
+CODE_SMELL
+p
+java:S2479'":Remove the non-escaped \u0009 character from this literal.(ÅŒ“´8‡úßñË0HÅRCRITICALZ
+CODE_SMELL
+u
+java:S2479(":Remove the non-escaped \u0009 character from this literal.(¿»áşÿÿÿÿ8‡úßñË0HÆRCRITICALZ
+CODE_SMELL
+u
+java:S2479)":Remove the non-escaped \u0009 character from this literal.(Ì¿øıûÿÿÿÿ8‡úßñË0HÇRCRITICALZ
+CODE_SMELL
+p
+java:S2479*":Remove the non-escaped \u0009 character from this literal.(ñ£å•8‡úßñË0HÈRCRITICALZ
+CODE_SMELL
+u
+java:S2479+":Remove the non-escaped \u0009 character from this literal.(‹˜Àƒøÿÿÿÿ8‡úßñË0HÉRCRITICALZ
+CODE_SMELL
+p
+java:S2479,":Remove the non-escaped \u0009 character from this literal.(‰‹¬8‡úßñË0HÊRCRITICALZ
+CODE_SMELL
+p
+java:S2479/":Remove the non-escaped \u0009 character from this literal.(¶Ù£ú8‡úßñË0HËRCRITICALZ
+CODE_SMELL
+u
+java:S24794":Remove the non-escaped \u0009 character from this literal.(­ØÁÁùÿÿÿÿ8‡úßñË0HÌRCRITICALZ
+CODE_SMELL
+u
+java:S24795":Remove the non-escaped \u0009 character from this literal.(¿¼°¤üÿÿÿÿ8‡úßñË0HÍRCRITICALZ
+CODE_SMELL
+p
+java:S24796":Remove the non-escaped \u0009 character from this literal.(ö©Í«8‡úßñË0HÎRCRITICALZ
+CODE_SMELL
+u
+java:S24797":Remove the non-escaped \u0009 character from this literal.(¼¡à¼ıÿÿÿÿ8‡úßñË0HÏRCRITICALZ
+CODE_SMELL
+p
+java:S24798":Remove the non-escaped \u0009 character from this literal.(˜‚—È8‡úßñË0HĞRCRITICALZ
+CODE_SMELL
+p
+java:S24799":Remove the non-escaped \u0009 character from this literal.(Ö¤Ä©8‡úßñË0HÑRCRITICALZ
+CODE_SMELL
+s	java:S125:"<This block of commented-out lines of code should be removed.(¤Å²Ãúÿÿÿÿ8‡úßñË0HÒRMAJORZ
+CODE_SMELL

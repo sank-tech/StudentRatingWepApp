@@ -1,0 +1,37 @@
+
+k
+;src/main/java/sa20423149/webapp/rating/ViewStudentData.java,f\b\fbe89dd09825596aace7dce2d51abcfcf5d74b1f
+_
+/src/main/java/sa20423149/webapp/rating/App.java,8\8\8800bda011d64abecb75238794dec6f922e25044
+f
+6src/main/java/sa20423149/webapp/rating/AddStudent.java,6\a\6a229e1584d37f5de119350b8dd76fe17b69e8dc
+c
+3src/main/java/sa20423149/webapp/rating/Connect.java,4\9\4982b1682e8eb2b5bc1eaa039dab23b7e25cbd42
+`
+0src/main/java/sa20423149/webapp/rating/Data.java,6\4\640775fd5284ccf998e9757bc7e940c74802fbf0
+i
+9src/main/java/sa20423149/webapp/rating/RemoveStudent.java,7\d\7d9914455c5765892e987c64a52fe44eeca09102
+m
+=src/main/java/sa20423149/webapp/rating/StructureCreation.java,c\7\c7f3ea9cd68c725365feddd5b42b5c46e7b9ca6c
+k
+;src/main/java/sa20423149/webapp/rating/StudentWiseData.java,9\f\9f0539354b20621a763287d5404e77acc74c9711
+k
+;src/main/java/sa20423149/webapp/rating/SubjectWiseData.java,d\5\d5d5bde540df2d2f2802af887d109db464d5b35c
+r
+Bsrc/main/java/sa20423149/webapp/rating/ViewAssignmentCategory.java,8\7\8721e769598de8ecc949f3fe998f47bc4218d97a
+J
+src/main/webapp/index.html,1\3\1337d72a3b1928dba82aa5210f5cdc0e88ce895b
+P
+ src/main/webapp/studentinfo.html,6\1\61458b13a25174f941ce1b348a4ac138bdbbef7d
+P
+ src/main/webapp/subjectwise.html,c\9\c9c8b621a59d5a2b10d1a1ec6cbe8061efc99e2e
+P
+ src/main/webapp/studentwise.html,d\9\d9db35afbe163df3d59c0412066eeaa8f1fe35b7
+R
+"src/main/webapp/removestudent.html,1\a\1afe8a94dec268f22e4159432fa81bf7f8e889eb
+S
+#src/main/webapp/displaystudent.html,6\7\671b61ab5da87110a625e84ca3de4176441ec279
+O
+src/main/webapp/addstudent.html,7\4\740a1ba1c13041a927ef4473be1e29f1cb002441
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
